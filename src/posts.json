@@ -1,0 +1,17 @@
+{
+    "posts":[{
+      "title":"hello world!",
+      "desc":"it's my first post on this site",
+      "author":"ahoora"
+    },
+    {
+      "title":"hello world 2!",
+      "desc":"it's my second post on this site",
+      "author":"ahoora"
+    },
+    {
+      "title":"lorem ipsum",
+      "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vero harum magni aut eum quis quas sapiente. Deserunt consequuntur ad ex deleniti amet nam, enim provident laboriosam consequatur iusto quam quasi.",
+      "author":"um ali"
+    }]
+}
